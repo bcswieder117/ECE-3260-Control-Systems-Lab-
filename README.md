@@ -1,4 +1,4 @@
-# ECE-3260-Control-Systems-Lab-
+# ECE 3260 Control Systems Lab
 
 **Course Description**: Simulation of dynamic systems. Demonstration of control system analysis and design techniques using hardware (we will focus on software) experiments.
 
